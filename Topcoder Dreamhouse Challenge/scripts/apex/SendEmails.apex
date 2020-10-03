@@ -1,0 +1,1 @@
+WelcomeEmailProcessor.send();
